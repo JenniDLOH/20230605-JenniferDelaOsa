@@ -1,0 +1,45 @@
+
+
+
+  265  git init
+  266  git checkout main
+  267  clear
+  268  git checkout -b main
+  269  $ git remote add orig
+  270  git remote add origin https://github.com/JenniDLOH/20230605-JenniferDelaOsa.git
+  271  git remote -v
+  272  touch comandos.txt main.js index.html
+  273  ls
+  274  git commit -m"commit 01 de JenniferdelaOsa"
+  275  git add.
+  276  git add .
+  277  git commit -m"commit 01 de JenniferdelaOsa"
+  278  git push origin main
+  279  git branch feature
+  280  git checkout feature
+  281  mkdir Hardware Software SeguridadInformatica
+  282  ls
+  283  cd Hardware
+  284  touch resumen.txt
+  285  ls
+  286  cd..
+  287  cd ..
+  288  cd Software/
+  289  touch resumen.txt
+  290  ls
+  291  cd ..
+  292  cd SeguridadInformatica/
+  293  touch resumen.txt
+  294  ls
+  295  cd ..
+  296  git add .
+  297  git status
+  298  git commit -m"commit 02 de JenniferdelaOsa"
+  299  git push origin feature
+  300  git checkout main
+  301  git mv main.js resumenHardware.txt
+  302  ls
+  303  git mv index.html resumenSoftware.txt
+  304  ls
+  305  code .
+  306  history
